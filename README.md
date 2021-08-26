@@ -18,9 +18,9 @@ As a developer, I really like to pay attention to every detail about the project
 
 - 👨🏻‍💻 I’m currently working as a .NET Developer
 - 🚀 I'm currently studying for my university
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: zapantis2@gmail.com;
-- 📝 [Resume](https://drive.google.com/file/d/1fSc6m638POhv6ZSftdWbl2TwcDGvyE9b/view?usp=sharing).
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: zapantis2@gmail.com
+- 📝 [Resume](https://drive.google.com/file/d/1fSc6m638POhv6ZSftdWbl2TwcDGvyE9b/view?usp=sharing)
 
 </br>
 
