@@ -6,6 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gianniszapantis/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tech-gian)
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<!-- https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645 -->
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=tech-gian.tech-gian)
 
@@ -22,6 +23,11 @@ As a developer, I really like to pay attention to every detail about the project
 - 📝 [Resume](https://drive.google.com/file/d/1fSc6m638POhv6ZSftdWbl2TwcDGvyE9b/view?usp=sharing).
 
 </br>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 📈 **My GitHub Stats:**
 
