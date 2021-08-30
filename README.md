@@ -24,14 +24,6 @@ As a developer, I really like to pay attention to every detail about the project
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-
 📈 **My GitHub Stats:**
 
 <p>
