@@ -17,7 +17,7 @@ As a developer, I really like to pay attention to every detail about the project
 
 **Talkin about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working as a .NET Developer
+- 👨🏻‍💻 I’m currently working as a .NET - Angular Developer
 - 🚀 I'm currently studying for my university
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: zapantis2@gmail.com
