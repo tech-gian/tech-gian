@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I've been working for 3+ years as a software engineer and I was studying for my Bachelor's and Master's at the same time. I have a lot of experience in banking and healthcare systems, I'm passionate about my work and challenging myself is what drives me to get better!
+I've been working for 5+ years as a software engineer and I was studying for my Bachelor's and Master's at the same time. I have a lot of experience in bankingm, healthcare and betting systems, I'm passionate about my work and challenging myself is what drives me to get better!
 
-* 🌍  I'm based in Athens, Greece (Currently in Stockholm, Sweden for my Master's Degree)
+* 🌍  I'm based in Athens, Greece
 * ✉️  You can contact me at [zapantis2@gmail.com](mailto:zapantis2@gmail.com)
-* 🚀  I'm currently working on [Appointee](http://appointee-staging.azurewebsites.net/)
-* 🧠  I'm learning Cybersecurity
+* 🚀  I'm currently working on [Gymora](https://gymora.gr/)
+* 🧠  I'm currently working as a Software Engineer
 * 🤝  I'm open to collaborating on New and Exciting Projects
 * ⚡  I'm also a basketball player
 
