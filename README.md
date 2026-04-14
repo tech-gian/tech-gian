@@ -29,16 +29,9 @@ I've been working for 5+ years as a software engineer and I was studying for my 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/tech-gian"><img src="https://github-readme-stats.vercel.app/api?username=tech-gian&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tech-gian's GitHub stats" /></a>
-
 <a href="http://www.github.com/tech-gian"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-gian&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/tech-gian" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-gian&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/gianniszapantis"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<a href="https://www.buymeacoffee.com/gianniszapantis"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
